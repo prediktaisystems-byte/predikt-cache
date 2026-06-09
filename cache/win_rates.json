@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "hiddenWinRate": 79,
+  "familiarWinRate": 66,
+  "hiddenWins": 1390,
+  "hiddenTotal": 1751,
+  "familiarWins": 1158,
+  "familiarTotal": 1755,
+  "exportedAt": "2026-06-09T20:00:21.786Z",
+  "_ttlMinutes": 60
+}
