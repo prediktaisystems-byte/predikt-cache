@@ -15829,22 +15829,22 @@
       "competition": "WORLD: Friendly International",
       "h_m1": "Over 17.5 Fouls",
       "h_c1": 88,
-      "h_r1": "PENDING",
+      "h_r1": "WIN",
       "h_m2": "Over 7.5 Corners",
       "h_c2": 84,
-      "h_r2": "PENDING",
+      "h_r2": "LOSS",
       "h_m3": "Over 2.5 Yellow Cards",
       "h_c3": 80,
-      "h_r3": "PENDING",
+      "h_r3": "WIN",
       "f_m1": "Over 1.5 Goals",
       "f_c1": 82,
-      "f_r1": "PENDING",
+      "f_r1": "WIN",
       "f_m2": "Home Win/Draw",
       "f_c2": 78,
-      "f_r2": "PENDING",
+      "f_r2": "WIN",
       "f_m3": "BTTS",
       "f_c3": 72,
-      "f_r3": "PENDING",
+      "f_r3": "WIN",
       "home_logo": "https://media.api-sports.io/football/teams/27.png",
       "away_logo": "https://media.api-sports.io/football/teams/19.png",
       "league_logo": ""
@@ -15877,6 +15877,6 @@
       "league_logo": ""
     }
   ],
-  "exportedAt": "2026-06-10T22:39:42.519Z",
+  "exportedAt": "2026-06-10T23:09:34.912Z",
   "_ttlMinutes": 30
 }
