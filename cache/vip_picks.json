@@ -1246,8 +1246,36 @@
       "HOME_LOGO": "https://media.api-sports.io/football/teams/85.png",
       "AWAY_LOGO": "https://media.api-sports.io/football/teams/42.png",
       "LEAGUE_LOGO": "https://media.api-sports.io/football/leagues/2.png"
+    },
+    {
+      "Date": "2026-06-09T23:00:00.000Z",
+      "Match": "Portugal - Nigeria",
+      "Competition": "WORLD: Friendly International",
+      "Kickoff": "1899-12-30T21:31:25.000Z",
+      "VIP_Market": "Over 17.5 Fouls",
+      "VIP_Confidence": 88,
+      "VIP_Reason": "Portugal and Nigeria have a history of physical matches, with recent form showing both teams committing many fouls, making Over 17.5 Fouls a reliable market for this fixture",
+      "Status": "PUBLISHED",
+      "Publish_Time": "1899-12-30T11:46:25.000Z",
+      "HOME_LOGO": "https://media.api-sports.io/football/teams/27.png",
+      "AWAY_LOGO": "https://media.api-sports.io/football/teams/19.png",
+      "LEAGUE_LOGO": ""
+    },
+    {
+      "Date": "2026-06-09T23:00:00.000Z",
+      "Match": "England - Costa Rica",
+      "Competition": "WORLD: Friendly International",
+      "Kickoff": "1899-12-30T21:46:25.000Z",
+      "VIP_Market": "Over 6.5 Corners",
+      "VIP_Confidence": 85,
+      "VIP_Reason": "Both England and Costa Rica have been creating many scoring opportunities, leading to a high number of corners, making Over 6.5 Corners a reliable market for this match",
+      "Status": "PUBLISHED",
+      "Publish_Time": "1899-12-30T11:46:25.000Z",
+      "HOME_LOGO": "https://media.api-sports.io/football/teams/10.png",
+      "AWAY_LOGO": "https://media.api-sports.io/football/teams/29.png",
+      "LEAGUE_LOGO": ""
     }
   ],
-  "exportedAt": "2026-06-10T14:09:58.690Z",
+  "exportedAt": "2026-06-10T14:40:09.309Z",
   "_ttlMinutes": 30
 }
