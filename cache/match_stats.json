@@ -7606,6 +7606,6 @@
       "SAVES": "{\"scorers\":[{\"name\":\"K. Havertz\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"6'\",\"type\":\"GOAL\",\"ownGoal\":false,\"penalty\":false},{\"name\":\"O. Dembele\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"65'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"G. Ramos\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+1'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"V. Gyokeres\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+1'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"D. Doue\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+2'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"D. Rice\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+3'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"A. Hakimi\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+4'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"G. Martinelli\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+4'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"L. Beraldo\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+5'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true}],\"braces\":[],\"hattricks\":[],\"exactBrace\":false}"
     }
   },
-  "exportedAt": "2026-06-10T01:39:36.812Z",
+  "exportedAt": "2026-06-10T02:09:42.312Z",
   "_ttlMinutes": 60
 }
