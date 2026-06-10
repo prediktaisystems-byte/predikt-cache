@@ -1,6 +1,17 @@
 {
-  "picks": [],
-  "total": 0,
-  "exportedAt": "2026-06-10T14:09:40.257Z",
+  "picks": [
+    {
+      "date": "6/10/2026",
+      "match": "Portugal - Nigeria ",
+      "competition": "WORLD: Friendly International",
+      "kickoff": "21:45",
+      "marketType": "HIDDEN",
+      "market1": "Over 17.5 Fouls",
+      "home_logo": "",
+      "away_logo": ""
+    }
+  ],
+  "total": 2,
+  "exportedAt": "2026-06-10T14:39:40.522Z",
   "_ttlMinutes": 30
 }
