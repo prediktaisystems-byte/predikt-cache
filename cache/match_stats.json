@@ -7606,17 +7606,17 @@
       "SAVES": "{\"scorers\":[{\"name\":\"K. Havertz\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"6'\",\"type\":\"GOAL\",\"ownGoal\":false,\"penalty\":false},{\"name\":\"O. Dembele\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"65'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"G. Ramos\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+1'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"V. Gyokeres\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+1'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"D. Doue\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+2'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"D. Rice\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+3'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"A. Hakimi\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+4'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"G. Martinelli\",\"team\":\"Arsenal\",\"side\":\"away\",\"minute\":\"120+4'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true},{\"name\":\"L. Beraldo\",\"team\":\"Paris Saint Germain\",\"side\":\"home\",\"minute\":\"120+5'\",\"type\":\"PEN\",\"ownGoal\":false,\"penalty\":true}],\"braces\":[],\"hattricks\":[],\"exactBrace\":false}"
     },
     "Portugal - Nigeria": {
-      "FT_SCORE": "",
-      "HT_SCORE": "",
-      "SHOTS": "",
-      "SOT": "",
-      "CORNERS": "",
-      "YELLOW": "",
-      "RED": "",
-      "POSS": "",
-      "FOULS": "",
-      "OFFSIDES": "",
-      "SAVES": ""
+      "FT_SCORE": "2-1",
+      "HT_SCORE": "1-1",
+      "SHOTS": "3-2",
+      "SOT": "2-2",
+      "CORNERS": "0-0",
+      "YELLOW": "13-5",
+      "RED": "6-2",
+      "POSS": "61-39",
+      "FOULS": "4-1",
+      "OFFSIDES": "{\"h1Goals\":2,\"h2Goals\":1,\"h1HomeGoals\":1,\"h1AwayGoals\":1,\"h2HomeGoals\":1,\"h2AwayGoals\":0,\"h1YellowCards\":1,\"h2YellowCards\":3,\"h1HomeYellow\":0,\"h1AwayYellow\":1,\"h2HomeYellow\":2,\"h2AwayYellow\":1,\"h1RedCards\":0,\"h2RedCards\":0,\"homeFouls\":11,\"awayFouls\":19,\"homeSaves\":1,\"awaySaves\":4}",
+      "SAVES": "{\"scorers\":[{\"name\":\"P. Neto\",\"team\":\"Portugal\",\"side\":\"home\",\"minute\":\"23'\",\"type\":\"GOAL\",\"ownGoal\":false,\"penalty\":false},{\"name\":\"A. Adams\",\"team\":\"Nigeria\",\"side\":\"away\",\"minute\":\"37'\",\"type\":\"GOAL\",\"ownGoal\":false,\"penalty\":false},{\"name\":\"F. Conceicao\",\"team\":\"Portugal\",\"side\":\"home\",\"minute\":\"75'\",\"type\":\"GOAL\",\"ownGoal\":false,\"penalty\":false}],\"braces\":[],\"hattricks\":[],\"exactBrace\":false}"
     },
     "England - Costa Rica": {
       "FT_SCORE": "",
@@ -7632,6 +7632,6 @@
       "SAVES": ""
     }
   },
-  "exportedAt": "2026-06-10T22:39:45.926Z",
+  "exportedAt": "2026-06-10T23:09:37.380Z",
   "_ttlMinutes": 60
 }
